@@ -1,0 +1,2 @@
+# PatikaOdevler
+Patika Tüm Ödevleri
